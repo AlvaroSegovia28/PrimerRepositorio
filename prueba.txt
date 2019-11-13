@@ -1,1 +1,2 @@
 empezando con GitHub
+comprobacion del correo de git
